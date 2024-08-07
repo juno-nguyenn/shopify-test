@@ -1,0 +1,40 @@
+.label {
+  font-size: 14px;
+  color: #b9b9b9;
+  font-weight: 700;
+}
+
+.title {
+  font-size: 40px;
+  color: #2D3339;
+  font-weight: 600;
+
+  @media screen and (max-width: 767px) {
+    font-size: 30px;
+  }
+}
+
+.description {
+  font-size: 20px;
+  color: #686B7B;
+  font-weight: 400;
+}
+
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 1.5rem;
+}
+
+.p-component {
+  padding: 100px 0;
+
+  @media screen and (max-width: 991px) {
+    padding: 60px 0;
+  }
+
+  @media screen and (max-width: 767px) {
+    padding: 40px 0;
+  }
+}
