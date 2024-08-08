@@ -9,32 +9,400 @@
 */
 {
   "sections": {
-    "awards_6a3RKb": {
+    "masthead_tznHeW": {
+      "type": "masthead",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/masthead.png",
+        "title": "More than a camera",
+        "colorHeading": "#ffffff"
+      }
+    },
+    "product_DpUUc7": {
+      "type": "product",
+      "blocks": {
+        "image_yfH3FT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/camera-4.png"
+          }
+        },
+        "image_VGg4hm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/camera-5.png"
+          }
+        },
+        "image_JgPNUW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/camera-6.png"
+          }
+        },
+        "image_t8K3yz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/camera-7.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_yfH3FT",
+        "image_VGg4hm",
+        "image_JgPNUW",
+        "image_t8K3yz"
+      ],
+      "settings": {
+        "title": "Canon EOS M6 Mark II",
+        "price": "$15,995.00",
+        "subtitle": "Decisive authority. Workflow faster. Maximum dependability.",
+        "desc": "The camera is so compact and lightweight that you might forget it in your pocket. The EOS M6 Mark II can shoot up to 30 fps with its RAW shooting mode while tracking the dancer on stage without interrupting others with a silent electronic shutter up to 1 \/ 16,000 sec.",
+        "video": "KxXNi1eb8JQ"
+      }
+    },
+    "awards_FDpdPH": {
       "type": "awards",
       "blocks": {
-        "image_GtKD44": {
+        "image_V8EQKX": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/award-1.png"
           }
         },
-        "image_k4WDri": {
+        "image_KXadHC": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/award-2.png"
           }
+        },
+        "image_b9ViXw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/award-3.png"
+          }
+        },
+        "image_PAWTYa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/award-4.png"
+          }
         }
       },
       "block_order": [
-        "image_GtKD44",
-        "image_k4WDri"
+        "image_V8EQKX",
+        "image_KXadHC",
+        "image_b9ViXw",
+        "image_PAWTYa"
       ],
       "settings": {
-        "backgroundColor": "#f7f7f7"
+        "backgroundColor": "#F7F7F7"
+      }
+    },
+    "overview_9qjWf8": {
+      "type": "overview",
+      "blocks": {
+        "text_Wwcme4": {
+          "type": "text",
+          "settings": {
+            "info": "32.5MP APS-C CMOS Sensor + DIGIC 8"
+          }
+        },
+        "text_mhKjJn": {
+          "type": "text",
+          "settings": {
+            "info": "5,481 autofocus points"
+          }
+        },
+        "text_VbP69y": {
+          "type": "text",
+          "settings": {
+            "info": "Dual Pixel CMOS AF"
+          }
+        },
+        "text_kcQtkX": {
+          "type": "text",
+          "settings": {
+            "info": "Automatic Eye Focus"
+          }
+        },
+        "text_CRP4ET": {
+          "type": "text",
+          "settings": {
+            "info": "30fps RAW burst mode"
+          }
+        },
+        "text_aWc9qX": {
+          "type": "text",
+          "settings": {
+            "info": "4K Video (Uncropped \/ Cropped)"
+          }
+        }
+      },
+      "block_order": [
+        "text_Wwcme4",
+        "text_mhKjJn",
+        "text_VbP69y",
+        "text_kcQtkX",
+        "text_CRP4ET",
+        "text_aWc9qX"
+      ],
+      "settings": {
+        "label": "MORE THAN A CAMERA",
+        "title": "Overview",
+        "desc": "For anyone who enjoys documenting their life with spontaneous, creative photography and filmmaking, the EOS M6 Mark II provides speed, power and versatility in a highly portable design.",
+        "image": "shopify:\/\/shop_images\/camera-2.png"
+      }
+    },
+    "our_features_9kpN6k": {
+      "type": "our-features",
+      "blocks": {
+        "technology_rVbDBD": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-1.png",
+            "title": "Creative Filters",
+            "desc": "Unique effects"
+          }
+        },
+        "technology_7c4qwy": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-2.png",
+            "title": "3.0 (7.5 cm) type",
+            "desc": "LCD screen"
+          }
+        },
+        "technology_DXkLm8": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-3.png",
+            "title": "24.1 megapixel",
+            "desc": "APS-C sensor"
+          }
+        },
+        "technology_yUWFDt": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-4.png",
+            "title": "Connectivity",
+            "desc": "Simple shoot"
+          }
+        },
+        "technology_xHG8LM": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-5.png",
+            "title": "Intelligent Auto",
+            "desc": "Simple shoot"
+          }
+        },
+        "technology_paBJ8Q": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-6.png",
+            "title": "Intelligent Auto",
+            "desc": "9 point autofocus"
+          }
+        }
+      },
+      "block_order": [
+        "technology_rVbDBD",
+        "technology_7c4qwy",
+        "technology_DXkLm8",
+        "technology_yUWFDt",
+        "technology_xHG8LM",
+        "technology_paBJ8Q"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/camera-3.png",
+        "title": "Our Features",
+        "label": "NEW TECHNOLOGY BEHIND"
+      }
+    },
+    "camera_size_kry9pM": {
+      "type": "camera-size",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/camera.png",
+        "title": "Camera Size",
+        "label": "SMALL, LIGHT AND CONVENEINT"
+      }
+    },
+    "slider_brFBQM": {
+      "type": "slider",
+      "blocks": {
+        "slider_DPEAnz": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slide-1.png"
+          }
+        },
+        "slider_iXTyik": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slide-3.png"
+          }
+        },
+        "slider_9HhhW6": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slide-2.png"
+          }
+        }
+      },
+      "block_order": [
+        "slider_DPEAnz",
+        "slider_iXTyik",
+        "slider_9HhhW6"
+      ],
+      "settings": {
+      }
+    },
+    "collapse_image_F9epx7": {
+      "type": "collapse-image",
+      "blocks": {
+        "collapse_image_HXDgk3": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Imageing",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        },
+        "collapse_image_7wVGnE": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Exposure Control",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        },
+        "collapse_image_yTFRXr": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Video",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        },
+        "collapse_image_PdJ4gw": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Focus",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        },
+        "collapse_image_wBqi9x": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Viewfinder and Monitor",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        }
+      },
+      "block_order": [
+        "collapse_image_HXDgk3",
+        "collapse_image_7wVGnE",
+        "collapse_image_yTFRXr",
+        "collapse_image_PdJ4gw",
+        "collapse_image_wBqi9x"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_27.png",
+        "title": "Product Spects"
+      }
+    },
+    "image_carousel_jBnUry": {
+      "type": "image-carousel",
+      "blocks": {
+        "image_carousel_ftbG4e": {
+          "type": "imageCarousel",
+          "settings": {
+            "avatar": "shopify:\/\/shop_images\/Ellipse_2.png",
+            "label": "AMARI SALTER",
+            "desc": "I bought this last month and I literally did not know anything about photography. Lots of features and great photos, using it to practice an hour a day"
+          }
+        },
+        "image_carousel_4P7PAW": {
+          "type": "imageCarousel",
+          "settings": {
+            "avatar": "shopify:\/\/shop_images\/Ellipse_3.png",
+            "label": "AMARI SALTER",
+            "desc": "I bought this last month and I literally did not know anything about photography. Lots of features and great photos, using it to practice an hour a day"
+          }
+        },
+        "image_carousel_fbiKTk": {
+          "type": "imageCarousel",
+          "settings": {
+            "avatar": "shopify:\/\/shop_images\/Ellipse_4.png",
+            "label": "AMARI SALTER",
+            "desc": "I bought this last month and I literally did not know anything about photography. Lots of features and great photos, using it to practice an hour a day"
+          }
+        }
+      },
+      "block_order": [
+        "image_carousel_ftbG4e",
+        "image_carousel_4P7PAW",
+        "image_carousel_fbiKTk"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image-1.png",
+        "title": "Testimonial"
+      }
+    },
+    "accessories_KzxBx8": {
+      "type": "accessories",
+      "blocks": {
+        "text_EKFAac": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29.png",
+            "productName": "Product Name",
+            "price": "40.00"
+          }
+        },
+        "text_dXUFyY": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29_1.png",
+            "productName": "Product Name",
+            "price": "40.00"
+          }
+        },
+        "text_7NnrFQ": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29_2.png",
+            "productName": "Product Name",
+            "price": "40.00"
+          }
+        },
+        "text_gzHRAd": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29_3.png",
+            "productName": "Product Name",
+            "price": "40.00"
+          }
+        }
+      },
+      "block_order": [
+        "text_EKFAac",
+        "text_dXUFyY",
+        "text_7NnrFQ",
+        "text_gzHRAd"
+      ],
+      "settings": {
+        "label": "RELATED PRODUCT",
+        "title": "Competiable Accessories"
       }
     }
   },
   "order": [
-    "awards_6a3RKb"
+    "masthead_tznHeW",
+    "product_DpUUc7",
+    "awards_FDpdPH",
+    "overview_9qjWf8",
+    "our_features_9kpN6k",
+    "camera_size_kry9pM",
+    "slider_brFBQM",
+    "collapse_image_F9epx7",
+    "image_carousel_jBnUry",
+    "accessories_KzxBx8"
   ]
 }
