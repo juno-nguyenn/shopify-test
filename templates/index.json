@@ -217,6 +217,177 @@
         "title": "Our Features",
         "label": "NEW TECHNOLOGY BEHIND"
       }
+    },
+    "camera_size_kry9pM": {
+      "type": "camera-size",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/camera.png",
+        "title": "Camera Size",
+        "label": "SMALL, LIGHT AND CONVENEINT"
+      }
+    },
+    "slider_brFBQM": {
+      "type": "slider",
+      "blocks": {
+        "slider_DPEAnz": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slide-1.png"
+          }
+        },
+        "slider_iXTyik": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slide-3.png"
+          }
+        },
+        "slider_9HhhW6": {
+          "type": "slider",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slide-2.png"
+          }
+        }
+      },
+      "block_order": [
+        "slider_DPEAnz",
+        "slider_iXTyik",
+        "slider_9HhhW6"
+      ],
+      "settings": {
+      }
+    },
+    "collapse_image_F9epx7": {
+      "type": "collapse-image",
+      "blocks": {
+        "collapse_image_HXDgk3": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Imageing",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        },
+        "collapse_image_7wVGnE": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Exposure Control",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        },
+        "collapse_image_yTFRXr": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Video",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        },
+        "collapse_image_PdJ4gw": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Focus",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        },
+        "collapse_image_wBqi9x": {
+          "type": "collapseImage",
+          "settings": {
+            "label": "Viewfinder and Monitor",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+          }
+        }
+      },
+      "block_order": [
+        "collapse_image_HXDgk3",
+        "collapse_image_7wVGnE",
+        "collapse_image_yTFRXr",
+        "collapse_image_PdJ4gw",
+        "collapse_image_wBqi9x"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_27.png",
+        "title": "Product Spects"
+      }
+    },
+    "image_carousel_jBnUry": {
+      "type": "image-carousel",
+      "blocks": {
+        "image_carousel_ftbG4e": {
+          "type": "imageCarousel",
+          "settings": {
+            "avatar": "shopify:\/\/shop_images\/Ellipse_2.png",
+            "label": "AMARI SALTER",
+            "desc": "I bought this last month and I literally did not know anything about photography. Lots of features and great photos, using it to practice an hour a day"
+          }
+        },
+        "image_carousel_4P7PAW": {
+          "type": "imageCarousel",
+          "settings": {
+            "avatar": "shopify:\/\/shop_images\/Ellipse_3.png",
+            "label": "AMARI SALTER",
+            "desc": "I bought this last month and I literally did not know anything about photography. Lots of features and great photos, using it to practice an hour a day"
+          }
+        },
+        "image_carousel_fbiKTk": {
+          "type": "imageCarousel",
+          "settings": {
+            "avatar": "shopify:\/\/shop_images\/Ellipse_4.png",
+            "label": "AMARI SALTER",
+            "desc": "I bought this last month and I literally did not know anything about photography. Lots of features and great photos, using it to practice an hour a day"
+          }
+        }
+      },
+      "block_order": [
+        "image_carousel_ftbG4e",
+        "image_carousel_4P7PAW",
+        "image_carousel_fbiKTk"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image-1.png",
+        "title": "Testimonial"
+      }
+    },
+    "accessories_KzxBx8": {
+      "type": "accessories",
+      "blocks": {
+        "text_EKFAac": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29.png",
+            "productName": "Product Name",
+            "price": "40.00"
+          }
+        },
+        "text_dXUFyY": {
+          "type": "text",
+          "settings": {
+            "productName": "",
+            "price": ""
+          }
+        },
+        "text_7NnrFQ": {
+          "type": "text",
+          "settings": {
+            "productName": "",
+            "price": ""
+          }
+        },
+        "text_gzHRAd": {
+          "type": "text",
+          "settings": {
+            "productName": "",
+            "price": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_EKFAac",
+        "text_dXUFyY",
+        "text_7NnrFQ",
+        "text_gzHRAd"
+      ],
+      "settings": {
+        "label": "RELATED PRODUCT",
+        "title": "Competiable Accessories"
+      }
     }
   },
   "order": [
@@ -224,6 +395,11 @@
     "product_DpUUc7",
     "awards_FDpdPH",
     "overview_9qjWf8",
-    "our_features_9kpN6k"
+    "our_features_9kpN6k",
+    "camera_size_kry9pM",
+    "slider_brFBQM",
+    "collapse_image_F9epx7",
+    "image_carousel_jBnUry",
+    "accessories_KzxBx8"
   ]
 }
