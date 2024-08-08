@@ -9,32 +9,16 @@
 */
 {
   "sections": {
-    "awards_6a3RKb": {
-      "type": "awards",
-      "blocks": {
-        "image_GtKD44": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/award-1.png"
-          }
-        },
-        "image_k4WDri": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/award-2.png"
-          }
-        }
-      },
-      "block_order": [
-        "image_GtKD44",
-        "image_k4WDri"
-      ],
+    "masthead_tznHeW": {
+      "type": "masthead",
       "settings": {
-        "backgroundColor": "#f7f7f7"
+        "image": "shopify:\/\/shop_images\/masthead.png",
+        "title": "More than a camera",
+        "colorHeading": "#ffffff"
       }
     }
   },
   "order": [
-    "awards_6a3RKb"
+    "masthead_tznHeW"
   ]
 }
