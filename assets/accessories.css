@@ -112,6 +112,7 @@
 
     .accessories__item-vote {
       margin-bottom: 20px;
+      gap: 10px;
     }
 
     .accessories__item-starts {
