@@ -16,9 +16,52 @@
         "title": "More than a camera",
         "colorHeading": "#ffffff"
       }
+    },
+    "product_DpUUc7": {
+      "type": "product",
+      "blocks": {
+        "image_yfH3FT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/camera-4.png"
+          }
+        },
+        "image_VGg4hm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/camera-5.png"
+          }
+        },
+        "image_JgPNUW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/camera-6.png"
+          }
+        },
+        "image_t8K3yz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/camera-7.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_yfH3FT",
+        "image_VGg4hm",
+        "image_JgPNUW",
+        "image_t8K3yz"
+      ],
+      "settings": {
+        "title": "Canon EOS M6 Mark II",
+        "price": "$15,995.00",
+        "subtitle": "Decisive authority. Workflow faster. Maximum dependability.",
+        "desc": "The camera is so compact and lightweight that you might forget it in your pocket. The EOS M6 Mark II can shoot up to 30 fps with its RAW shooting mode while tracking the dancer on stage without interrupting others with a silent electronic shutter up to 1 \/ 16,000 sec.",
+        "video": "KxXNi1eb8JQ"
+      }
     }
   },
   "order": [
-    "masthead_tznHeW"
+    "masthead_tznHeW",
+    "product_DpUUc7"
   ]
 }
