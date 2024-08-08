@@ -58,10 +58,172 @@
         "desc": "The camera is so compact and lightweight that you might forget it in your pocket. The EOS M6 Mark II can shoot up to 30 fps with its RAW shooting mode while tracking the dancer on stage without interrupting others with a silent electronic shutter up to 1 \/ 16,000 sec.",
         "video": "KxXNi1eb8JQ"
       }
+    },
+    "awards_FDpdPH": {
+      "type": "awards",
+      "blocks": {
+        "image_V8EQKX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/award-1.png"
+          }
+        },
+        "image_KXadHC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/award-2.png"
+          }
+        },
+        "image_b9ViXw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/award-3.png"
+          }
+        },
+        "image_PAWTYa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/award-4.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_V8EQKX",
+        "image_KXadHC",
+        "image_b9ViXw",
+        "image_PAWTYa"
+      ],
+      "settings": {
+        "backgroundColor": "#F7F7F7"
+      }
+    },
+    "overview_9qjWf8": {
+      "type": "overview",
+      "blocks": {
+        "text_Wwcme4": {
+          "type": "text",
+          "settings": {
+            "info": "32.5MP APS-C CMOS Sensor + DIGIC 8"
+          }
+        },
+        "text_mhKjJn": {
+          "type": "text",
+          "settings": {
+            "info": "5,481 autofocus points"
+          }
+        },
+        "text_VbP69y": {
+          "type": "text",
+          "settings": {
+            "info": "Dual Pixel CMOS AF"
+          }
+        },
+        "text_kcQtkX": {
+          "type": "text",
+          "settings": {
+            "info": "Automatic Eye Focus"
+          }
+        },
+        "text_CRP4ET": {
+          "type": "text",
+          "settings": {
+            "info": "30fps RAW burst mode"
+          }
+        },
+        "text_aWc9qX": {
+          "type": "text",
+          "settings": {
+            "info": "4K Video (Uncropped \/ Cropped)"
+          }
+        }
+      },
+      "block_order": [
+        "text_Wwcme4",
+        "text_mhKjJn",
+        "text_VbP69y",
+        "text_kcQtkX",
+        "text_CRP4ET",
+        "text_aWc9qX"
+      ],
+      "settings": {
+        "label": "MORE THAN A CAMERA",
+        "title": "Overview",
+        "desc": "For anyone who enjoys documenting their life with spontaneous, creative photography and filmmaking, the EOS M6 Mark II provides speed, power and versatility in a highly portable design.",
+        "image": "shopify:\/\/shop_images\/camera-2.png"
+      }
+    },
+    "our_features_9kpN6k": {
+      "type": "our-features",
+      "blocks": {
+        "technology_rVbDBD": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-1.png",
+            "title": "Creative Filters",
+            "desc": "Unique effects"
+          }
+        },
+        "technology_7c4qwy": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-2.png",
+            "title": "3.0 (7.5 cm) type",
+            "desc": "LCD screen"
+          }
+        },
+        "technology_DXkLm8": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-3.png",
+            "title": "24.1 megapixel",
+            "desc": "APS-C sensor"
+          }
+        },
+        "technology_yUWFDt": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-4.png",
+            "title": "Connectivity",
+            "desc": "Simple shoot"
+          }
+        },
+        "technology_xHG8LM": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-5.png",
+            "title": "Intelligent Auto",
+            "desc": "Simple shoot"
+          }
+        },
+        "technology_paBJ8Q": {
+          "type": "technology",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/technology-6.png",
+            "title": "Intelligent Auto",
+            "desc": "9 point autofocus"
+          }
+        }
+      },
+      "block_order": [
+        "technology_rVbDBD",
+        "technology_7c4qwy",
+        "technology_DXkLm8",
+        "technology_yUWFDt",
+        "technology_xHG8LM",
+        "technology_paBJ8Q"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/camera-3.png",
+        "title": "Our Features",
+        "label": "NEW TECHNOLOGY BEHIND"
+      }
     }
   },
   "order": [
     "masthead_tznHeW",
-    "product_DpUUc7"
+    "product_DpUUc7",
+    "awards_FDpdPH",
+    "overview_9qjWf8",
+    "our_features_9kpN6k"
   ]
 }
