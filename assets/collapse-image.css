@@ -1,0 +1,136 @@
+.collapse-image {
+  display: flex;
+  background: #F7F7F7;;
+
+  .collapsible {
+    order: 1;
+    width: 50%;
+    display: flex;
+    align-items: center;
+
+    .collapsible__container {
+      width: 100%;
+      max-width: 509px;
+      padding: 0 15px;
+      margin: 0 auto;
+    }
+
+    .collapsible__label {
+      cursor: pointer;
+      padding: 20px 0;
+      border-bottom: 1px solid #C4C4C4;
+      border-top: 1px solid #C4C4C4;;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 20px;
+      font-weight: 600;
+
+      > svg {
+        transform: rotate(0deg);
+        transition: transform 0.3s ease-out;
+      }
+    }
+
+    .collapsible__section:first-child {
+      .collapsible__label {
+        border-top: unset;
+      }
+    }
+
+    .collapsible__section:has(.collapsible__content):has(.active) {
+      .collapsible__label {
+        > svg {
+          transform: rotate(180deg);
+        }
+      }
+    }
+    .collapsible__content {
+      max-height: 0;
+      overflow: hidden;
+      padding: 0;
+      transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+    }
+
+    .collapsible__content p {
+      font-size: 14px;
+      line-height: 24px;
+      margin: 0;
+    }
+
+    .collapsible__content.active {
+      margin: 20px 0 30px;
+    }
+  }
+
+  .image {
+    order: 2;
+    width: 50%;
+  }
+
+  .collapse-image__image {
+    height: 786px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+
+    .collapse-image__image-title {
+      color: white;
+      position: absolute;
+      top: 50%;
+      max-width: 200px;
+      margin: auto;
+      text-align: center;
+    }
+  }
+
+  @media screen and (max-width: 1199px) {
+    .collapsible{
+      .collapsible__container {
+        padding-right: 30px;
+      }
+    }
+    .collapse-image__image {
+      height: 580px;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    .collapse-image__image {
+      height: 490px;
+    }
+  }
+
+  @media screen and (max-width: 640px) {
+    flex-wrap: wrap;
+    .image {
+      width: 100%;
+      order: 1;
+      margin-bottom: 40px;
+    }
+    .collapsible {
+      width: 100%;
+      order: 2;
+      margin-bottom: 40px;
+
+      .collapsible__container {
+        max-width: 100%;
+        padding-right: 15px;
+      }
+
+      .collapse-image__image {
+        height: 410px;
+      }
+
+      .collapsible__label {
+        padding: 20px 0;
+      }
+
+      .collapsible__content.active {
+        margin: 20px 0 20px;
+      }
+    }
+  }
+}

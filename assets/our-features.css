@@ -21,11 +21,6 @@
   .our-features__image {
     max-width: 470px;
     margin-right: auto;
-
-    > img {
-      width: 100%;
-      display: block;
-    }
   }
 
   .our-features__technology {
@@ -41,6 +36,11 @@
     padding: 20px 5px 30px;
     border: 1px solid #ECECEC;
     border-radius: 10px;
+  }
+
+  .our-features__technology-image {
+    max-width: 70px;
+    margin: auto;
   }
 
   .our-features__technology-title {

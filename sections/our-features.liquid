@@ -12,7 +12,6 @@
     <div class="our-features__content">
       <div class="our-features__label label">{{ section.settings.label }}</div>
       <div class="our-features__title title">{{ section.settings.title }}</div>
-      <button class="logButton" data-component-id="{{ section.id }}">Hello</button>
         <div class="our-features__technology">
       {%- for block in section.blocks -%}
           <div class="our-features__technology-wrap" >
@@ -27,8 +26,6 @@
     </div>
   </div>
 </section>
-
-<script src="{{ 'our-features.js' | asset_url }}"></script>
 
 {% schema %}
 {

@@ -12,11 +12,6 @@
   .overview__image {
     max-width: 370px;
     width: 100%;
-
-    > img {
-      width: 100%;
-      display: block;
-    }
   }
 
   .overview__label {

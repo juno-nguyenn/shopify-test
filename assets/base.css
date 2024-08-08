@@ -1,3 +1,8 @@
+body {
+  font-family: "Epilogue", sans-serif;
+  letter-spacing: 0px;
+}
+
 .label {
   font-size: 14px;
   color: #b9b9b9;
@@ -30,11 +35,16 @@
 .p-component {
   padding: 100px 0;
 
-  @media screen and (max-width: 991px) {
+  @media screen and (max-width: 990px) {
     padding: 60px 0;
   }
 
   @media screen and (max-width: 767px) {
     padding: 40px 0;
   }
+}
+
+img {
+  width: 100%;
+  display: block;
 }

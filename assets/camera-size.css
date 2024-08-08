@@ -12,9 +12,6 @@
   .camera-size__image {
     max-width: 1030px;
     margin: auto;
-    > img {
-      width: 100%;
-    }
   }
 }
 
